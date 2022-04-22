@@ -1,4 +1,0 @@
-$cd Documents/git
-
-$cd Documents
-$cd git
